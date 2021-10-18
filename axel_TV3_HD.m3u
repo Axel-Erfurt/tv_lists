@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Das Erste" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/white/84x48.png" tvg-id="",Das Erste
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/white/84x48.png" tvg-id="",ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-name="mdr" group-title="ARD / ZDF" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png" tvg-id="",mdr
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 tvg-name="phoenix" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/a0b41e9eea449229f713/white/84x48.png" tvg-id="",phoenix
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-name="rbb" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/white/84x48.png" tvg-id="",rbb
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-name="BR" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/7bede2308528e63feaac/white/84x48.png" tvg-id="",BR
+https://bfr-suedde.akamaized.net/hls/live/2020412-b/bfs_sued_de/master.m3u8
+#EXTINF:-1 tvg-name="hr" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/f9fce1487da75bf65159/white/84x48.png" tvg-id="",hr
+http://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
+#EXTINF:-1 tvg-name="arte" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/white/84x48.png" tvg-id="ARTE.de",arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="3sat" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/white/84x48.png" tvg-id="",3sat
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-name="one" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/white/84x48.png" tvg-id="",one
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/white/84x48.png" tvg-id="",ZDFinfo
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-name="zdf_neo" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/white/84x48.png" tvg-id="",zdf_neo
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-name="NDR" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/white/84x48.png" tvg-id="",NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-name="WDR" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/white/84x48.png" tvg-id="",WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-name="tagesschau24" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/white/84x48.png" tvg-id="",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-name="Welt" group-title="Nachrichten" tvg-logo="http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/white/84x48.png" tvg-id="",Welt
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="ARD alpha" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/white/84x48.png" tvg-id="",ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_640p_1028.m3u8
+#EXTINF:-1 tvg-name="SR" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/white/84x48.png" tvg-id="",SR
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8
+#EXTINF:-1 tvg-name="SWR BW" group-title="ARD / ZDF" tvg-logo="http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/white/84x48.png" tvg-id="",SWR BW
+https://swrbwd-hls.akamaized.net/hls/live/2018672-b/swrbwd/master-360p-1028.m3u8
+#EXTINF:-1 tvg-name="DW" group-title="Nachrichten" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/743px-Deutsche_Welle_Logo.svg.png" tvg-id="DeutscheWelleDE.de",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index.m3u8
+#EXTINF:-1 tvg-name="Beat Club" group-title="Pluto" tvg-logo="https://images.pluto.tv/channels/5f982c3420de4100070a545e/colorLogoPNG.png" tvg-id="",Beat Club
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f982c3420de4100070a545e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=43867960-83bf-11ea-8c80-2f0e09d7945a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7ae85c97-0579-48b1-a94f-73392ab42614&userId=

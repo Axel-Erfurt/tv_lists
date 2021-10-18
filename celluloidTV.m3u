@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:0,ARD
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:1,ARD ONE
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:2,ARD Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:3,ARD Tagesschau
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:4,ZDF
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:5,ZDF info
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:6,ZDF neo
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:7,MDR Sachsen-Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:8,MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:9,MDR Thüringen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:10,PHOENIX
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:11,RBB Berlin
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:12,RBB Brandenburg
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:13,BR Süd
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:14,BR Nord
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:15,HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:16,SR
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+#EXTINF:17,SWR RP
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master.m3u8
+#EXTINF:18,SWR BW
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+#EXTINF:19,NDR Schleswig-Holstein
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:20,NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:21,NDR Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:22,NDR Mecklenburg-Vorpommern
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:23,DW
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:24,WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:25,ARTE FR
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:26,ARTE DE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:27,3Sat
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:28,kika
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:29,ORF-1
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:30,ORF-2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:31,ORF-3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:32,ORF-Sport
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:33,ARD 640x360
+http://mcdn.daserste.de/daserste/de/master_640p_1028.m3u8
+#EXTINF:34,ARD ONE 640x360
+https://mcdn.one.ard.de/ardone/hls/master-360p-1028.m3u8
+#EXTINF:35,ARD Alpha 640x360
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_640p_1028.m3u8
+#EXTINF:36,ARD Tagesschau 640x360
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_1216_av-p.m3u8?sd=10&rebase=on
+#EXTINF:37,ZDF low
+http://zdf-hls-15.akamaized.net/hls/live/2016498/de/low/master.m3u8
+#EXTINF:38,ZDF info low
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/low/master.m3u8
+#EXTINF:39,ZDF neo low
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/low/master.m3u8
+#EXTINF:40,MDR Sachsen-Anhalt 640x360
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_640x360.m3u8
+#EXTINF:41,MDR Sachsen 640x360
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_640x360.m3u8
+#EXTINF:42,MDR Thüringen 640x360
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master_640x360.m3u8
+#EXTINF:43,PHOENIX low
+http://zdf-hls-19.akamaized.net/hls/live/2016502/de/low/master.m3u8
+#EXTINF:44,RBB Berlin 640x360
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-360p-1028.m3u8
+#EXTINF:45,RBB Brandenburg 640x360
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-360p-1028.m3u8
+#EXTINF:46,BR Süd 640x360
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_640p_1028.m3u8
+#EXTINF:47,BR Nord 640x360
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master_640p_1028.m3u8
+#EXTINF:48,HR 640x360
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-360.m3u8
+#EXTINF:49,SR 640x360
+http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/index_1128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:50,SWR RP 640x360
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master-360p-1028.m3u8
+#EXTINF:51,SWR BW 640x360
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master-360p-1028.m3u8
+#EXTINF:52,NDR Schleswig-Holstein 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master_360.m3u8
+#EXTINF:53,NDR Hamburg 640x360
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_1152_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:54,NDR Niedersachsen 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_360.m3u8
+#EXTINF:55,NDR Mecklenburg-Vorpommern 640x360
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master_360.m3u8
+#EXTINF:56,DW 640x360
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/stream01/streamPlaylist.m3u8
+#EXTINF:57,WDR 640x360
+https://mcdn.wdr.de/wdr/wdrfs/de/master_1028.m3u8
+#EXTINF:58,ARTE FR 640x360
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v360.m3u8
+#EXTINF:59,ARTE DE 640x360
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v360.m3u8
+#EXTINF:60,3Sat low
+http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/low/master.m3u8
+#EXTINF:61,kika 640x360
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master-360p-1028.m3u8
